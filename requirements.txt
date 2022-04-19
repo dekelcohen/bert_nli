@@ -78,7 +78,6 @@ transformers
 typing-extensions
 urllib3
 wasabi
-Werkzeug
 wrapt
 zipp
 --find-links https://download.pytorch.org/whl/torch_stable.html
